@@ -1,5 +1,10 @@
 # Django Altair Express
 
+[![CI](https://github.com/Xpt0xZv/django_altair_express/actions/workflows/ci.yml/badge.svg)](https://github.com/Xpt0xZv/django_altair_express/actions/workflows/ci.yml)
+[![PyPI version](https://img.shields.io/pypi/v/django-altair-express.svg)](https://pypi.org/project/django-altair-express/)
+[![Python Versions](https://img.shields.io/pypi/pyversions/django-altair-express.svg)](https://pypi.org/project/django-altair-express/)
+
+
 A Django package that provides a reusable template tag for rendering Altair charts.
 
 ## Installation

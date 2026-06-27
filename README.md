@@ -9,7 +9,7 @@ A Django package that provides a reusable template tag for rendering Altair char
 
 ## Requirements
 
-- **Python**: 3.8, 3.9, 3.10, 3.11, 3.12, 3.13
+- **Python**: 3.10, 3.11, 3.12, 3.13
 - **Django**: 4.2 or higher
 - **Altair**: 5.0 or higher
 

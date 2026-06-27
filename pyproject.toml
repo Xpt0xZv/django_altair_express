@@ -1,6 +1,6 @@
 [project]
 name = "django-altair-express"
-version = "0.1.1"
+version = "0.1.2"
 description = "Add your description here"
 readme = "README.md"
 license = { text = "BSD-3-Clause" }

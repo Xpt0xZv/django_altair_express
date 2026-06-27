@@ -1,16 +1,31 @@
 [project]
 name = "django-altair-express"
-version = "0.1.0"
+version = "0.1.1"
 description = "Add your description here"
 readme = "README.md"
 license = { text = "BSD-3-Clause" }
 authors = [
     { name = "Xpt0xZv", email = "" }
 ]
-requires-python = ">=3.12"
+requires-python = ">=3.8"
 dependencies = [
     "altair>=6.2.2",
-    "django>=6.0.6",
+    "django>=4.2",
+]
+classifiers = [
+    "Framework :: Django",
+    "Framework :: Django :: 4.2",
+    "Framework :: Django :: 5.0",
+    "Framework :: Django :: 5.1",
+    "Framework :: Django :: 6.0",
+    "License :: OSI Approved :: BSD License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
 ]
 
 [build-system]
